@@ -5,4 +5,4 @@ This is a small python selenium project to spam fake records to a bkash scammer.
 <img src="resources/message.png"  width="35%" height="35%">
 
 ## Spamming in action
-<video src='resources/video.mp4' width=720>
+<img src="resources/demo.gif"  width="100%" height="100%">
